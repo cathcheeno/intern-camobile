@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./sample.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>intern-camobile</title>\n  </head>\n  <body>\n<p>hello!!!!</p>\n    <script src=\"/dist/40bc3ea94c3fc95684d03b7c2bd61c50.js\">\n    </script>\n\n  </body>\n</html>\n"},"hash":"dac98f5b57cca3a221b848a98fe13994","cacheData":{}}
